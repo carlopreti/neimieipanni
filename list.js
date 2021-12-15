@@ -19,31 +19,31 @@ let allMusic = [
   {
     name: "Titolo storia 2",
     artist: "-",
-    img: "music-1",
+    img: "music-2",
     src: "music-2"
   },
   {
     name: "Titolo storia 3",
     artist: "-",
-    img: "music-1",
+    img: "music-3",
     src: "music-3"
   },
   {
     name: "Ttolo storia 4",
     artist: "-",
-    img: "music-1",
+    img: "music-4",
     src: "music-4"
   },
   {
     name: "Titolo storia 5",
     artist: "-",
-    img: "music-1",
+    img: "music-5",
     src: "music-5"
   },
   {
     name: "Titolo storia 6",
     artist: "-",
-    img: "music-1",
+    img: "music-6",
     src: "music-6"
   },
   // like this paste it and remember to give comma after ending of this bracket }
