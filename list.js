@@ -11,44 +11,44 @@
 
 let allMusic = [
   {
-    name: "Titolo storia 1",
-    artist: "-",
+    name: "Sei andata benissimo",
+    artist: ".",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Titolo storia 2",
-    artist: "-",
+    name: "Lottate",
+    artist: ".",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Titolo storia 3",
-    artist: "-",
+    name: "Sogno una Conversano",
+    artist: ".",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Ttolo storia 4",
-    artist: "-",
+    name: "La mia Chiara",
+    artist: ".",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Titolo storia 5",
-    artist: "-",
+    name: "Mancata appartenenza",
+    artist: ".",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Titolo storia 6",
-    artist: "-",
+    name: "Una cosa più grande",
+    artist: ".",
     img: "music-6",
     src: "music-6"
   },
   {
-    name: "Titolo storia 7",
-    artist: "-",
+    name: "Non urlate",
+    artist: ".",
     img: "music-7",
     src: "music-7"
   },
