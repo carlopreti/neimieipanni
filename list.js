@@ -47,7 +47,7 @@ let allMusic = [
     src: "music-6"
   },
   {
-    name: "Non urlate",
+    name: "Non urlate!",
     artist: ".",
     img: "music-7",
     src: "music-7"
